@@ -4,6 +4,10 @@
 
 [**⬇️ Baixar para Windows**](https://github.com/SPITFIREGUH/BattGuide-releases/releases/latest/download/BattGuideApp-win-Setup.exe) · [**🌐 Usar no navegador / celular**](https://battguide.pages.dev)
 
+> ⚠️ **Não use o botão verde "Code → Download ZIP"** — ele baixa só este texto. O app está no link **Baixar para Windows** acima (ou em **Releases**, à direita).
+> *Don't use "Code → Download ZIP" (it only has this text) — use **Baixar para Windows** above or **Releases** on the right.*
+> *No uses "Code → Download ZIP" (solo trae este texto) — usa **Baixar para Windows** arriba o **Releases** a la derecha.*
+
 🇧🇷 [Português](#-português) · 🇺🇸 [English](#-english) · 🇪🇸 [Español](#-español)
 
 ---
